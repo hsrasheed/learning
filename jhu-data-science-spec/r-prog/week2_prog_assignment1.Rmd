@@ -1,0 +1,63 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+```{r}
+pollutantmean <- function(directory, pollutant, id = 1:332){
+  ## Return the mean of the pollutant across all monitors listed
+  ## in the 'id' vector (ignoring NA values)
+  df_colClasses = c("Date","double","double","integer")
+  df_colNames = c("Date","sulfate","nitrate","ID")
+  total_df <- read.table(text="",colClasses = df_colClasses,col.names = df_colNames)
+  for(x in id)
+  {
+    file_name = paste(getwd(),"/",directory,"/", sprintf("%03d",x),".csv",sep="")
+    new_df <- read.csv(file_name, header=TRUE)  
+    total_df <- rbind(new_df, total_df)
+  }
+  poll_mean <- mean(total_df[[pollutant]], na.rm=TRUE)
+  #print(total_df[1:2,])
+  print(poll_mean)
+}
+```
+
+```{r}
+#pollutantmean("C:\\Users\\harash\\Dropbox\\github-repo\\learning\\courses\\jhu-data-science-spec\\r-prog\\specdata","sulfate","001")
+my_dir <- "C:\\Users\\harash\\Dropbox\\github-repo\\learning\\courses\\jhu-data-science-spec\\r-prog\\specdata\\"
+my_id <- c(1:3)
+pollutantmean(my_dir,"sulfate",my_id)
+#print(dat)
+```
+```{r}
+pollutantmean("specdata", "sulfate", 1:10)
+pollutantmean("specdata", "nitrate", 70:72)
+pollutantmean("specdata", "nitrate", 23)
+```
+
+```{r}
+file_name = paste(getwd(),"/","specdata","/", sprintf("%03d",2),".csv",sep="")
+print(file_name)
+```
+
+
+```{r}
+complete <- function(directory, id = 1:332){
+  
+}
+```
+
