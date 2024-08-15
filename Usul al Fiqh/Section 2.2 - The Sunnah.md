@@ -69,8 +69,56 @@ Note:  pages 431 - 484
 - Everything else that doesnt fall into one of the previous categories.
 - Q: If you cant prove truthfulness wouldnt that make it a lie?
 - A: This is opposed by the approach that lack of evidence that its a lie indicates its truthfulness (which is from principles of hadith)
-## Part 2: Akhbar Ahad
+## Part 2: Akhbar Ahad (450-)
 ### Section 2.2.4 Affirming it against the deniers
+- Defn: What is narrated by one person, or any number that falls short of tawatur, while in the absence of secondary factors (qareenah) that would give certainty about its truthfulness
+#### Issue: Evidences for logical possibility, occurence and permissibility of forming the basis of worship
+- 1) Based on reports from the seerah that are beyond doubt that he used to send his governors and messengers to different areas conveying rulings, halal and haram, collecting zakat. He would send out expeditions and require its members to follow a single amir
+- 2) The ijma of the sahaba on acting based on khabar al wahid, and their explicit statements in different situations
+- 3) The layperson, unaware of ijma, is obligated to make taqleed of a mufti. Which is a form of khabar wahid that the ruling of Allah is such and such
+- 4) Ayah in surah tawbah: 122 "falaw laa nafara min kulli firqatin minhum taa'ifatun" - and a taa'ifah is less than the number of tawatur 
+
+#### Issue: Obligation of acting upon khabar al wahid is known through aql
+- No, its known through revelation (the evidences above)
 ### Section 2.2.5 Conditions of the narrators and their attributes
+#### Conditions of the narrator
+- Mukallaf
+- Muslim
+- Adl
+- Dabt
+
+#### Issue: Defining Adalah
+- Adl - the steadfastness of the mukallaf inwardly and outwardly on the commands of the shariah, and avoiding what detracts from manliness (muroo'ah) - even if it may be permissible
+#### Issue: The disobedient person who gives some interpretation for their act (muta'awwal)
+- Op1 (Shafii) - accept their narration and witness
+- Op2 (Qadi Abu Bakr, Ibn Rashiq) - dont accept 
+	- Allah prohibited accepting the narration of a fasiq (surah al hujuraat) 
+	- If adalah is a condition, then once its lost the narration and witness cant be accepted
 ### Section 2.2.6 Jarh and Ta'deel
+#### Issue: Conditioning a certain number to endorse a person for narration and witness (tazkiyah)
+- Op1: Tazkiyah of a number of people is  a condition
+- Op2: Its not
+- Op3 (Ibn Rashiq): Tazkiyah of a number of people is a condition for witness, but not narration - one is sufficient
+#### Issue: Mentioning the reason for critiquing a narrator
+- Op 1 (Shafii): Must mention reason for critique, but not reason for endorsement
+- Op 2: Must mention reason for endorsement, critique generality is sufficient
+- Op 3: Must mention reason for both
+- Op 4 (Ibn rashiq) If the person critiquing or endorsing knows that they share the same criteria as the person using their critique/endorsement, its not necessary to mention the reason -- otherwise it must be mentioned
+#### Issue: What constitutes and endorsement
+- An explicit statement - "he is upright", ??"I am content (and mention the reason for adalah if there may be some doubt by stating it generally)"
+- Narrating from the person - if it is known that he only narrates from those who are adl, and his method of tadeel is known to be reasonable/customary
+- Acting on their narration
+- Ruling based on their narration
+
+#### Issue: Trustworthiness of the sahabah
+- Evidence: Hadith of the prophet that the ummah would divide into sects and the victorious sect would be "what I and my companions are following"
+- Defn of sahabah: anyone who achieved suhbah with the Prophet - even for an hour. But the intent of the praise of the prophet was to include those who had accompanied him extensively, until they were guided by his guidance
 ### Section 2.2.7 Documenting the narrators receiving what they narrate
+
+1. The shaykh reading to him in a gathering of narration - "haddathanee","akhbaranaa","sami'tu","yukhbiru"
+2. Reading to the shaykh while he listens, and then remains silent (as if to say 'thats correct') -- customarily the scholars of hadith would say 'such and such narrated to us through reading'
+3. (Ijazah) Permission to narrate  by the shaykh saying 'I give you permission to narrate this book', or 'what you have correctly heard of my statements'
+4. (Munawalah 'Gifting') The shaykh saying that he narrates a certain book and that you can narrate it as well - the narrator would then have to specify "such-and-such informed me through his book which he has given me"
+
+
+(Note: Matters until the end of this chapter not likely to be tested on - covered in other courses)

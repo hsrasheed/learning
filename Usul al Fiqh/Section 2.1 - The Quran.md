@@ -3,7 +3,7 @@ Note: pages 347 - 430
 * The nature of the book: It is the speech of Allah which is a sifah of His thaat and which Allah made the text which indicates the miraculousness of Prophet Muhammad. In itself it is a single meaning, it is khabar and istikhbar, it is promise and warning, command and prohibition, etc; there is no repetition in it, but it only differs based on what it is connected to. Whereas the internal speech of the hadith has repetition. The word "speech" is a homonyn that indicates the meaning present in the self pre-eternal or created
 * The definition of the book: "What is conveyed to us between the covers of the mushaf, upon the seven ahruf, through mutawatir"
 
-## Section 2.1.3 The phrases of the book
+## Section 2.1.3 The phrases (alFaadh) of the book
 ### The ruling on shath qira'aat
 * Issue: The use of shath qira'aat (From footnotes by Thana al Halabi):
 	* The seven Qira'aat are mutawaatir by ijma: Abu Amr, Nafi, Asim, Hamzah, Kisa'i, Ibn Kathir, Ibn Aamir
@@ -11,8 +11,6 @@ Note: pages 347 - 430
 	* Other than those ten, they are shathah.
 	* The scholars differed whether qira'at shatha can be used as evidence
 		* Malik, Shafi'i - No. Because the prophet was responsible to narrate the Quran that came down to a group, such that their statement could be a decisive evidence. Such a group, we could not imagine they agreeing not to narrate what they heard from him. So if someone is narrating it as Quran and by himself, its a mistake. And if he does not ascribe it as Quran, it could be considered as a narration from the prophet, or considered as his opinion.
-		* So for this reason, they differed with the opinion stating the obligation of someone fasting the days for kaffarah successively as is narrated in the Qira'ah of ibn Masood
-		* Qira'at shatha should not be considered a hujjah and they should not have the hukm of a khabar from the prophet, because the one narrating it never said that it was Quran (which is necessarily mutawatir). If it cant be affirmed as Quran, it cant be affirmed as a khabar.
 		* Hanafi, Hanbali - Yes, they are a zhanni hujjah and should be acted upon from the perspective that they are a khabar ahad, not Quran. So they obligated the fasting of the kaffarah to be on successive days given that we would not question the adalah of ibn masood and the fact that he heard it from the prophet.
 		* Zarkashi: qira'at shathah would either be considered hukm or tafseer. If they are tafseer, then they are a hujjah. If they are a hukm, they could either be opposed by another daleel or not. If so, they the daleel should be followed.
 ### The ruling on the basmalah

@@ -24,8 +24,8 @@
 * Its logical possibility - its possible for Allah to give takleef with whatever he wishes of previous revelation
 * Its actual occurrence -
 * Op 1: there are common things from previous revelations through which we worship Allah, but we know about all of those things based on instruction by the Prophet, not on the tongue of any of the previous prophets
-			* Evidence 1: Its not narrated that the prophet returned to the tawrah or injil seeking their ruling on something
-			* Evidence 2: In order for us to refer to those revelations, it would have been required for us to narrate them as we narrate the quran and sunnah, and it would have been required for the sahabah to return to that source on rulings that were difficult for them to ascertain
+		* Evidence 1: Its not narrated that the prophet returned to the tawrah or injil seeking their ruling on something
+		* Evidence 2: In order for us to refer to those revelations, it would have been required for us to narrate them as we narrate the quran and sunnah, and it would have been required for the sahabah to return to that source on rulings that were difficult for them to ascertain
 * Op 2: There are a number of ayaat that refer to following the huda (guidance) of previous prophets, millah (way) 
 * Response: these refer to tawheed and are directed at the prophet respectively). Or refer to the tawrah has having huda and noor (but is open to interpretation). There are also a few hadith cited which are not conclusive
 ### Second: The statement of a companion
